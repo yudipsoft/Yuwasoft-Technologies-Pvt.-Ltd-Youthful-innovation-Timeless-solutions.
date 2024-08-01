@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg height="300" viewBox="0 0 300 300" width="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+><g
+  ><g
+    ><g fill="#0677ed"
+      ><path d="M178.9,203.8h-58.3c-50.2,0-91,40.7-91,91l0,0h140.7c52.1,0,94.8-40,99.1-91H178.9L178.9,203.8z"
+        /><path d="M178.9,95.7c50.2,0,91-40.7,91-91v0H129.2c-52.1,0-94.8,40-99.1,91h90.6H178.9z"
+        /><path d="M269.9,195.2L269.9,195.2c0-50.2-40.7-91-91-91h-58.3v0h-91v0c0,50.2,40.7,91,91,91h58.3L269.9,195.2 C269.9,195.2,269.9,195.2,269.9,195.2z"
+      /></g
+      ><g
+      ><linearGradient gradientUnits="userSpaceOnUse" id="a" x1="56.932" x2="242.566" y1="310.513" y2="-11.014"
+        ><stop offset=".094" stop-color="#0773e5"
+          /><stop offset=".942" stop-color="#04dc78"
+        /></linearGradient
+        ><path d="M178.9,203.8h-58.3c-50.2,0-91,40.7-91,91l0,0h140.7c52.1,0,94.8-40,99.1-91H178.9L178.9,203.8z" fill="url(#a)"
+        /><linearGradient gradientUnits="userSpaceOnUse" id="b" x1="56.932" x2="242.566" y1="310.513" y2="-11.014"
+        ><stop offset=".094" stop-color="#0773e5"
+          /><stop offset=".942" stop-color="#04dc78"
+        /></linearGradient
+        ><path d="M178.9,95.7c50.2,0,91-40.7,91-91v0 H129.2c-52.1,0-94.8,40-99.1,91h90.6H178.9z" fill="url(#b)"
+        /><linearGradient gradientUnits="userSpaceOnUse" id="c" x1="56.932" x2="242.566" y1="310.513" y2="-11.014"
+        ><stop offset=".094" stop-color="#0773e5"
+          /><stop offset=".942" stop-color="#04dc78"
+        /></linearGradient
+        ><path d="M269.9,195.2L269.9,195.2 c0-50.2-40.7-91-91-91h-58.3v0h-91v0c0,50.2,40.7,91,91,91h58.3L269.9,195.2C269.9,195.2,269.9,195.2,269.9,195.2z" fill="url(#c)"
+      /></g
+    ></g
+  ></g
+></svg
+>
